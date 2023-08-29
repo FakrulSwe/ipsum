@@ -1,0 +1,25 @@
+<svg width="77" height="64" viewBox="0 0 77 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 15800">
+<g id="Availability">
+<circle id="Ellipse 61" cx="31.5" cy="32.2622" r="31.5" fill="#58BF73"/>
+<g id="Rectangle 134" filter="url(#filter0_b_2_4462)">
+<rect x="22.5834" y="12.7622" width="53.6667" height="39.6667" rx="19.8333" fill="#F1F1F1" fill-opacity="0.1"/>
+<rect x="22.5834" y="12.7622" width="53.6667" height="39.6667" rx="19.8333" fill="#84D576" fill-opacity="0.65"/>
+<rect x="22.8334" y="13.0122" width="53.1667" height="39.1667" rx="19.5833" stroke="white" stroke-width="0.5"/>
+</g>
+</g>
+<g id="Group 15775">
+<path id="Vector 89" d="M33.5 37.7622L40.9268 43.8784C41.4543 44.3128 42.2525 44.1019 42.4965 43.4636L47.6881 29.8855C47.9989 29.0728 49.1275 29.0172 49.5166 29.7955L52.5311 35.8244C52.9126 36.5875 54.013 36.5531 54.3461 35.7678L60.5 21.2622" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<circle id="Ellipse 62" cx="62" cy="18.7622" r="2.5" stroke="white" stroke-width="3"/>
+<circle id="Ellipse 63" cx="31" cy="35.7622" r="2.5" stroke="white" stroke-width="3"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_2_4462" x="21.5834" y="11.7622" width="55.6667" height="41.6667" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="0.5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_2_4462"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_2_4462" result="shape"/>
+</filter>
+</defs>
+</svg>
