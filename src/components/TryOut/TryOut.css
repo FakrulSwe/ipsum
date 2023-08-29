@@ -1,0 +1,14 @@
+.logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.20);
+    background: #FFF;
+    box-shadow: -9px -9px 16px 0px rgba(177, 176, 176, 0.6), 10px 10px 17px 0px rgba(193, 208, 195, 0.26);
+    text-align: center;
+    padding-top: 5%;
+    font-size: xx-small;
+}
+.logo img{
+    width: 30px;
+}
