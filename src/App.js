@@ -1,6 +1,7 @@
 import AmChart from "./components/AmChart/AmChart";
 import Banner from "./components/Banner/Banner";
 import Card from "./components/Card/Card";
+import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
 import Massa from "./components/Massa/Massa";
 import Table1 from "./components/Table/Table1";
@@ -22,8 +23,7 @@ function App() {
       <Touch></Touch>
       <Table2></Table2>
       <Massa></Massa>
-      
-      
+      <Footer></Footer>
     </div>
   );
 }

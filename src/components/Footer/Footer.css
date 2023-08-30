@@ -1,0 +1,9 @@
+.font{
+    color: var(--black-1, #1A1A1A);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 26px;
+}

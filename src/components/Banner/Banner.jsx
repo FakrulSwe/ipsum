@@ -8,8 +8,7 @@ const Banner = () => {
             <div className="carousel-inner">
               <div className="carousel-item active">
                 <div className="row">
-                    <div className="col-12 col-md-6 d-flex justify-content-center 
-                     align-items-center">
+                    <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                         <div className='p-5 m-5'>
                             <h1 className="fs-1 text">Lore <span className='fw-bold'>ipsum.</span><br/> Dolor <span className='fw-bold'>sit.</span></h1>
                         <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatu. Sed ut perspiciatis unde omnis iste natus error.</p>
