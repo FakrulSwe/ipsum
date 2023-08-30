@@ -2,6 +2,7 @@ import AmChart from "./components/AmChart/AmChart";
 import Banner from "./components/Banner/Banner";
 import Card from "./components/Card/Card";
 import Header from "./components/Header/Header";
+import Massa from "./components/Massa/Massa";
 import Table1 from "./components/Table/Table1";
 import Table2 from "./components/Table2/Table2";
 import Touch from "./components/Touch/Touch";
@@ -20,6 +21,7 @@ function App() {
       <AmChart></AmChart>
       <Touch></Touch>
       <Table2></Table2>
+      <Massa></Massa>
       
       
     </div>
