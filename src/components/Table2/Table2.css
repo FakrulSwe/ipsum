@@ -1,0 +1,39 @@
+.fullTable1{
+    text-align: center;
+    margin: 50px; 
+    background-color: #FFF;
+    margin-left: 190px;
+    margin-right: 100px;
+    
+}
+.fullTable1 th{
+    padding: 5px;
+}
+.fullTable1 td {
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+.Color3{
+    border-radius: 2px;
+    background: #E3E3E3;
+    column-gap: 100px;
+    color: #000;
+    border-radius: 10px;
+    
+
+}
+.Color2{
+    border-radius: 10px;
+    opacity: 0.6;
+    background: #d8d7d7;
+    color: #000;
+}
+
+.nodeColor2{
+    background-color: #B4ECD2;
+}
+.nodeColor1{
+    background-color: #64B992;
+}
