@@ -1,9 +1,10 @@
 .fullTable1{
     text-align: center;
     margin: 50px; 
-    background-color: #FFF;
-    margin-left: 190px;
-    margin-right: 100px;
+    background-color: hsl(0, 0%, 100%);
+    margin-left: 300px;
+
+
     
 }
 .fullTable1 th{
