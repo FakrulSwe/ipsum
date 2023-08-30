@@ -8,8 +8,7 @@ const TrakingSheet = () => {
             <div className="carousel-inner">
               <div className="carousel-item active">
                 <div className="row">
-                    <div className="col-12 col-md-6 d-flex justify-content-center 
-                     align-items-center">
+                    <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                         <div className='p-5 m-5'>
                             <h1 className="fs-1 text">Nemo enim ipsam quia </h1>
                         <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed qu nemo enim</p>
@@ -43,7 +42,7 @@ const TrakingSheet = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-5 mt-4 pt-4 justify-content-center">
+                    <div className="col-12 col-md-6 d-flex justify-content-center align-items-center">
                         <img src={trackSheet} className="d-block w-100 pt-4" alt=""/>
                     </div>
                 </div>

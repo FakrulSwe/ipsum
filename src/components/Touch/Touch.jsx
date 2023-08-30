@@ -43,6 +43,11 @@ const Touch = () => {
                 </div>
             </div>
         </div>
+
+        <div className='dummy'>
+            <h1>Ullamcorper morbi tincidunt ornare massa eget. <br/> Quam viverra orci sagittis eu volutpat odio</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <br/> tempor incididunt ut labore </p>
+        </div>
         </div>
     );
 };
